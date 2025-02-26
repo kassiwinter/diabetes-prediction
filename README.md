@@ -22,19 +22,19 @@ The project follows these key steps:
 - Library: scikit-learn
 - Algorithms Used: Logistic Regression, Decision Trees, Random Forests (or any chosen algorithms based on your project)
 - Input Features: The following fields are taken from the user:
-  1. Number of Pregnancies
-  2. Insulin Level
-  3. Age
-  4. Body Mass Index (BMI)
-  5. Blood Pressure
-  6. Glucose Level
-  7. Skin Thickness
-  8. Diabetes Pedigree Function
-  9. Output: The model predicts whether the person is likely to have diabetes (Yes/No)
+  - Number of Pregnancies
+  - Insulin Level
+  - Age
+  - Body Mass Index (BMI)
+  - Blood Pressure
+  - Glucose Level
+  - Skin Thickness
+  - Diabetes Pedigree Function
+  - Output: The model predicts whether the person is likely to have diabetes (Yes/No)
 - Framework: Flask
 - Functionality:
-  1. The user provides health-related data via a form.
-  2. After submitting the form, the model processes the data and presents the prediction on a new page.
+  - The user provides health-related data via a form.
+  - After submitting the form, the model processes the data and presents the prediction on a new page.
 
 ## Prerequisites
 
